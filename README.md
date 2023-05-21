@@ -1,1 +1,1 @@
-# newtons-pendulum-animation
+newtons pendulum animation using JS
